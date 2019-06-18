@@ -4,7 +4,7 @@ BeerJS Vestfold aims to be an informal social platform for software developers. 
 
 ## When and where
 
-[The inaugural meetup](https://www.meetup.com/BeerJS-Vestfold/events/262125981/) will be held on Friday June 14th, hosted by [GSGroup AS](https://onegsgroup.com/).
+[The inaugural meetup](https://www.meetup.com/BeerJS-Vestfold/events/262125981/) was held on Friday June 14th, hosted by [GSGroup AS](https://onegsgroup.com/).
 
 Further meetups will be announced on https://www.meetup.com/BeerJS-Vestfold/
 
